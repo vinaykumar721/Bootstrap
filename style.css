@@ -1,7 +1,9 @@
 .topnav {
     overflow:hidden;
-    background-image: linear-gradient(to left top, #7b8696, rgb(190, 209, 171), #323b42, #2c4553, #3980a6);
-    opacity:0.5;
+    
+    background-image: linear-gradient(to left top, #837375,rgb(124, 108, 110),rgb(194, 166, 168),#849e9b,  #738c99);
+    opacity:3.0;
+    
     padding:4px;
   }
   
@@ -36,8 +38,8 @@
 
 footer {
     /* background: #16222A; */
-    background-image: linear-gradient(to left top, #7b8696, rgb(190, 209, 171), #323b42, #2c4553, #3980a6);
-    background: linear-gradient(59deg, #cbd5da, #7d8386);
+    /* background-image: linear-gradient(to left top, #7b8696, rgb(190, 209, 171), #323b42, #2c4553, #3980a6); */
+    background: linear-gradient(59deg, #6e5356,rgb(124, 108, 110),rgb(160, 109, 113),#849e9b,  #738c99);
     color: white;
     margin-top:100px;
   }
@@ -183,4 +185,9 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+
 }
+
+
+
+/* background-image: linear-gradient(to right top, #7b8696, rgb(190, 209, 171),rgb(190, 209, 171), #323b42, #2c4553, #3980a6); */
